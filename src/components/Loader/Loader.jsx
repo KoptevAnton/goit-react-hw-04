@@ -6,7 +6,7 @@ export default function Loader() {
     <div className={css.container}>
       <InfinitySpin
         visible={true}
-        width="200"
+        width="190"
         color="rgb(89, 89, 236)"
         ariaLabel="infinity-spin-loading"
       />
